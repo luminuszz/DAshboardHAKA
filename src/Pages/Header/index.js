@@ -57,7 +57,7 @@ export default function Header() {
             noWrap
             className={classes.title}
           >
-            Portaria HUB
+            Dashboard
           </Typography>
           <IconButton color="inherit">
             <Badge badgeContent={4} color="secondary">
@@ -80,9 +80,7 @@ export default function Header() {
         </div>
 
         <Divider />
-        <List>
-          <MainListItems />
-        </List>
+
         <Divider />
       </Drawer>
     </div>

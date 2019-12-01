@@ -40,10 +40,10 @@ export default function Orders(props) {
       <Table size="small">
         <TableHead>
           <TableRow>
-            <TableCell>Nome</TableCell>
-            <TableCell>Empresa</TableCell>
-            <TableCell>Nivel de acesso</TableCell>
-            <TableCell>Data</TableCell>
+            <TableCell>Teste</TableCell>
+            <TableCell>Teste</TableCell>
+            <TableCell>Teste</TableCell>
+            <TableCell>Teste</TableCell>
             <TableCell align="right">Sale Amount</TableCell>
           </TableRow>
         </TableHead>
