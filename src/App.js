@@ -1,7 +1,7 @@
 import "./App.css";
-
 import React from "react";
+import Router from "./routes";
 
-const App = () => <h1>dasd word</h1>;
+const App = () => <Router />;
 
 export default App;

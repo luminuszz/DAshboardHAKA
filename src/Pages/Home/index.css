@@ -1,0 +1,21 @@
+.imagem {
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 150px;
+
+  align-content: center;
+  align-items: center;
+}
+
+.imagem {
+  margin-left: 550px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+
+a {
+  text-decoration: none;
+}
